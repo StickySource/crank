@@ -1,0 +1,18 @@
+[submodule "sticky-bootstrap-tck"]
+	path = sticky-bootstrap-tck
+	url = git@github.com:StickySource/sticky-bootstrap-tck
+[submodule "sticky-bootstrap-spring4"]
+	path = sticky-bootstrap-spring4
+	url = git@github.com:StickySource/sticky-bootstrap-spring4
+[submodule "sticky-bootstrap-spring3"]
+	path = sticky-bootstrap-spring3
+	url = git@github.com:StickySource/sticky-bootstrap-spring3
+[submodule "sticky-bootstrap-guice4"]
+	path = sticky-bootstrap-guice4
+	url = git@github.com:StickySource/sticky-bootstrap-guice4
+[submodule "sticky-bootstrap-guice3"]
+	path = sticky-bootstrap-guice3
+	url = git@github.com:StickySource/sticky-bootstrap-guice3
+[submodule "sticky-bootstrap-api"]
+	path = sticky-bootstrap-api
+	url = git@github.com:StickySource/sticky-bootstrap-api
